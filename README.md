@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your.email@example.com">Email</a> •
-  <a href="https://www.linkedin.com/in/your-linkedin/">LinkedIn</a> •
-  <a href="https://your-website.com">Portfolio</a>
+  <a href="mailto:vaibhavyadav97@hotmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/vaibhavy762/">LinkedIn</a>
 </p>
 
 ---
